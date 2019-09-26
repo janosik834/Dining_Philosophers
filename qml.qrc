@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>image/remove.png</file>
+        <file>image/face.jpg</file>
+    </qresource>
+</RCC>
